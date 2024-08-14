@@ -1,0 +1,20 @@
+{
+    "name": "edmart/php-pro",
+    "autoload": {
+        "psr-4": {
+            "Edmart\\PhpPro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Edmart",
+            "email": "edmart666@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/http": "^1.4",
+        "slim/psr7": "^1.7",
+        "slim/slim": "^4.14",
+        "slim/php-view":"*"
+    }
+}
