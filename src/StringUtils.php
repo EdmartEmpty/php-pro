@@ -2,7 +2,7 @@
 
 function capitalize($text)
 {
-    if ($text === '') {
+    if ($text === '' || $text === null) {
         return '';
     }
     $firstSymbol = mb_strtoupper($text[0]);
