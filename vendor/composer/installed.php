@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'edmart/php-pro',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '3989ee26b4d89ec9047c6ee988b3b5db4ec4279c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'edmart/php-pro' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '3989ee26b4d89ec9047c6ee988b3b5db4ec4279c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
